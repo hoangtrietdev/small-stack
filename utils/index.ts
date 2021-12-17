@@ -103,6 +103,10 @@ const devABC: any = {
     title: 'Zend',
     icon: 'DiZend',
   },
+  z1: {
+    title: 'Zend1',
+    icon: 'DiZend1',
+  },
 };
 
 export const getStack = async (name: string) => {
